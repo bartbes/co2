@@ -40,5 +40,5 @@ Running the tests
 You can run the provided unit tests using the [busted][] test framework.
 When installed you can run `busted tests` from the root of this repository.
 
-[rock]: TBD
+[rock]: https://luarocks.org/modules/bartbes/co2
 [busted]: https://olivinelabs.com/busted/
